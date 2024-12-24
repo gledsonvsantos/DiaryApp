@@ -17,6 +17,7 @@
 ## 🧑‍💻 Tecnologias Utilizadas
 - **Kotlin**: Linguagem principal do projeto.
 - **Jetpack Compose**: Para criação de interfaces modernas e reativas.
+- **MVVM (Model-View-ViewModel)**: Arquitetura utilizada para manter o código organizado e desacoplado.
 - **Room com SQLCipher**: Banco de dados local protegido por criptografia.
 - **Hilt**: Injeção de dependência para modularidade e facilidade de testes.
 - **Material 3**: Design system para uma interface elegante.
