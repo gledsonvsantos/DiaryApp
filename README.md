@@ -65,4 +65,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ## 📷 Screenshots
+### Tela Principal
 ![screenshot.png](screenshot.png)
