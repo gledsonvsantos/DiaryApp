@@ -1,0 +1,72 @@
+# Diretórios e arquivos gerados automaticamente
+/build
+/build/
+.gradle
+.gradle/
+.idea/
+local.properties
+/local.properties
+
+# Arquivos de cache
+/captures/
+/output.json
+.navigation/
+.externalNativeBuild/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações de usuário específicas do Android Studio
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/libraries/
+/.idea/misc.xml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.iml
+
+# Arquivos relacionados ao git
+*.log
+*.lock
+*.lockfile
+
+# Arquivos de configuração do SQLite
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Chaves e credenciais sensíveis
+*.keystore
+*.jks
+
+# Arquivos de teste
+test-output/
+*.test.json
+
+# Arquivos de cache do Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.dex
+
+# Arquivos do SQLCipher
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Outros arquivos específicos do projeto
+/config/secret.properties
+
+/captures
+.externalNativeBuild
+.cxx
