@@ -65,5 +65,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ## 📷 Screenshots
-Adicione capturas de tela ou GIFs do funcionamento do app aqui para torná-lo mais atrativo.
-![screenshot-home.png](screenshot-home.png)
+![screenshot.png](screenshot.png)
